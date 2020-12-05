@@ -67,6 +67,11 @@ createAPI(Vue, Picker, [], true)
 
 export default {
   name: 'app',
+  components: {
+    CubeSlide,
+    CubeSlideItem,
+    MatchList
+  },  
   data() {
     return {
       currentPage: 1,
@@ -124,11 +129,6 @@ export default {
       this.toDown = true
       this.picker.show()
     }
-  },
-  components: {
-    CubeSlide,
-    CubeSlideItem,
-    MatchList
   }
 }
 </script>
