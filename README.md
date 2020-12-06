@@ -4,11 +4,9 @@
 
 The cubeui-app demo based on CubeUI (Vue 2) with Vite. Thanks to vite-plugin-vue2.
 
-::: tip
-A porting from [cube-app-guide](https://github.com/cube-ui/cube-application-guide) that is based on webpack 3.
+> A porting from [cube-app-guide](https://github.com/cube-ui/cube-application-guide) that is based on webpack 3.
 
-CubeUI contains Mobile web UI components based on Vue 2.
-:::
+> CubeUI contains Mobile web UI components based on Vue 2.
 
 ## Project setup
 
