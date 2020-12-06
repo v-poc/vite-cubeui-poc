@@ -361,9 +361,9 @@ export default {
   NBA: [
     [
       {
-        'hostTeamName': '太阳',
+        'hostTeamName': 'Suns',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/21.png',
-        'guestTeamName': '奇才',
+        'guestTeamName': 'Wizards',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/27.png',
         'hostScore': 2,
         'guestScore': 1,
@@ -372,9 +372,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '灰熊',
+        'hostTeamName': 'Memphis',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/29.png',
-        'guestTeamName': '马刺',
+        'guestTeamName': 'Spurs',
         'guestLogoUrl': 'http://img1.gtimg.com/sports/pics/hv1/231/116/2220/144385311.png',
         'hostScore': 0,
         'guestScore': 3,
@@ -383,9 +383,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '魔术',
+        'hostTeamName': 'Orlando Magic',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/19.png',
-        'guestTeamName': '黄蜂',
+        'guestTeamName': 'Hornets',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/30.png',
         'hostScore': 2,
         'guestScore': 1,
@@ -394,9 +394,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '热火',
+        'hostTeamName': 'Miami Heat',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/14.png',
-        'guestTeamName': '雷霆',
+        'guestTeamName': 'OKC Thunder',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/25.png',
         'hostScore': 1,
         'guestScore': 2,
@@ -405,9 +405,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '快船',
+        'hostTeamName': 'Clippers',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/1201.png',
-        'guestTeamName': '猛龙',
+        'guestTeamName': 'Raptors',
         'guestLogoUrl': 'http://img1.gtimg.com/sports/pics/hv1/97/80/2242/145806547.png',
         'hostScore': 2,
         'guestScore': 1,
@@ -416,9 +416,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '公牛',
+        'hostTeamName': 'Bulls',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/4.png',
-        'guestTeamName': '勇士',
+        'guestTeamName': 'Warriors',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/black/9.png',
         'hostScore': 2,
         'guestScore': 1,
@@ -427,9 +427,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '森林狼',
+        'hostTeamName': 'Timberwolves',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/new/16.png',
-        'guestTeamName': '老鹰',
+        'guestTeamName': 'Hawks',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/1.png',
         'hostScore': 0,
         'guestScore': 3,
@@ -438,9 +438,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '凯尔特人',
+        'hostTeamName': 'Celtics',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/2.png',
-        'guestTeamName': '骑士',
+        'guestTeamName': 'Cavaliers',
         'guestLogoUrl': 'http://img1.gtimg.com/sports/pics/hv1/131/116/2220/144385211.png',
         'hostScore': 3,
         'guestScore': 0,
@@ -449,9 +449,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '湖人',
+        'hostTeamName': 'Lakers',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/13.png',
-        'guestTeamName': '火箭',
+        'guestTeamName': 'Rockets',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/10.png',
         'hostScore': 2,
         'guestScore': 1,
@@ -460,9 +460,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '火箭',
+        'hostTeamName': 'Rockets',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/10.png',
-        'guestTeamName': '爵士',
+        'guestTeamName': 'Utah Jazz',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/26.png',
         'hostScore': 1,
         'guestScore': 2,
@@ -471,9 +471,9 @@ export default {
         'isEnd': true
       },
       {
-        'hostTeamName': '黄蜂',
+        'hostTeamName': 'Hornets',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/30.png',
-        'guestTeamName': '雄鹿',
+        'guestTeamName': 'Bucks',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/15.png',
         'hostScore': 2,
         'guestScore': 1,
@@ -484,9 +484,9 @@ export default {
     ],
     [
       {
-        'hostTeamName': '火箭',
+        'hostTeamName': 'Rockets',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/10.png',
-        'guestTeamName': '爵士',
+        'guestTeamName': 'Utah Jazz',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/26.png',
         'hostScore': 0,
         'guestScore': 1,
@@ -495,9 +495,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '黄蜂',
+        'hostTeamName': 'Hornets',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/30.png',
-        'guestTeamName': '雄鹿',
+        'guestTeamName': 'Bucks',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/15.png',
         'hostScore': 2,
         'guestScore': 0,
@@ -506,9 +506,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '公牛',
+        'hostTeamName': 'Bulls',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/4.png',
-        'guestTeamName': '勇士',
+        'guestTeamName': 'Warriors',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/black/9.png',
         'hostScore': 1,
         'guestScore': 1,
@@ -517,9 +517,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '森林狼',
+        'hostTeamName': 'Timberwolves',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/new/16.png',
-        'guestTeamName': '老鹰',
+        'guestTeamName': 'Hawks',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/1.png',
         'hostScore': 0,
         'guestScore': 1,
@@ -528,9 +528,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '太阳',
+        'hostTeamName': 'Suns',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/21.png',
-        'guestTeamName': '奇才',
+        'guestTeamName': 'Wizards',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/27.png',
         'hostScore': 0,
         'guestScore': 1,
@@ -539,9 +539,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '灰熊',
+        'hostTeamName': 'Memphis',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/29.png',
-        'guestTeamName': '马刺',
+        'guestTeamName': 'Spurs',
         'guestLogoUrl': 'http://img1.gtimg.com/sports/pics/hv1/231/116/2220/144385311.png',
         'hostScore': 2,
         'guestScore': 0,
@@ -550,9 +550,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '魔术',
+        'hostTeamName': 'Orlando Magic',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/19.png',
-        'guestTeamName': '黄蜂',
+        'guestTeamName': 'Hornets',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/30.png',
         'hostScore': 1,
         'guestScore': 1,
@@ -561,9 +561,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '灰熊',
+        'hostTeamName': 'Memphis',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/29.png',
-        'guestTeamName': '马刺',
+        'guestTeamName': 'Spurs',
         'guestLogoUrl': 'http://img1.gtimg.com/sports/pics/hv1/231/116/2220/144385311.png',
         'hostScore': 0,
         'guestScore': 1,
@@ -572,9 +572,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '湖人',
+        'hostTeamName': 'Lakers',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/13.png',
-        'guestTeamName': '火箭',
+        'guestTeamName': 'Rockets',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/10.png',
         'hostScore': 2,
         'guestScore': 0,
@@ -583,9 +583,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '快船',
+        'hostTeamName': 'Clippers',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/1201.png',
-        'guestTeamName': '猛龙',
+        'guestTeamName': 'Raptors',
         'guestLogoUrl': 'http://img1.gtimg.com/sports/pics/hv1/97/80/2242/145806547.png',
         'hostScore': 0,
         'guestScore': 1,
@@ -596,9 +596,9 @@ export default {
     ],
     [
       {
-        'hostTeamName': '魔术',
+        'hostTeamName': 'Orlando Magic',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/19.png',
-        'guestTeamName': '黄蜂',
+        'guestTeamName': 'Hornets',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/30.png',
         'hostScore': 0,
         'guestScore': 0,
@@ -608,9 +608,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '灰熊',
+        'hostTeamName': 'Memphis',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/29.png',
-        'guestTeamName': '马刺',
+        'guestTeamName': 'Spurs',
         'guestLogoUrl': 'http://img1.gtimg.com/sports/pics/hv1/231/116/2220/144385311.png',
         'hostScore': 0,
         'guestScore': 0,
@@ -620,9 +620,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '湖人',
+        'hostTeamName': 'Lakers',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/13.png',
-        'guestTeamName': '火箭',
+        'guestTeamName': 'Rockets',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/10.png',
         'hostScore': 0,
         'guestScore': 1,
@@ -632,9 +632,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '快船',
+        'hostTeamName': 'Clippers',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/1201.png',
-        'guestTeamName': '猛龙',
+        'guestTeamName': 'Raptors',
         'guestLogoUrl': 'http://img1.gtimg.com/sports/pics/hv1/97/80/2242/145806547.png',
         'hostScore': 2,
         'guestScore': 0,
@@ -644,9 +644,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '魔术',
+        'hostTeamName': 'Orlando Magic',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/19.png',
-        'guestTeamName': '黄蜂',
+        'guestTeamName': 'Hornets',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/30.png',
         'hostScore': 0,
         'guestScore': 1,
@@ -656,9 +656,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '热火',
+        'hostTeamName': 'Miami Heat',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/14.png',
-        'guestTeamName': '雷霆',
+        'guestTeamName': 'OKC Thunder',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/25.png',
         'hostScore': 0,
         'guestScore': 1,
@@ -668,9 +668,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '快船',
+        'hostTeamName': 'Clippers',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/1201.png',
-        'guestTeamName': '猛龙',
+        'guestTeamName': 'Raptors',
         'guestLogoUrl': 'http://img1.gtimg.com/sports/pics/hv1/97/80/2242/145806547.png',
         'hostScore': 0,
         'guestScore': 0,
@@ -680,9 +680,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '公牛',
+        'hostTeamName': 'Bulls',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/4.png',
-        'guestTeamName': '勇士',
+        'guestTeamName': 'Warriors',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/black/9.png',
         'hostScore': 1,
         'guestScore': 0,
@@ -692,9 +692,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '湖人',
+        'hostTeamName': 'Lakers',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/13.png',
-        'guestTeamName': '火箭',
+        'guestTeamName': 'Rockets',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/10.png',
         'hostScore': 1,
         'guestScore': 1,
@@ -704,9 +704,9 @@ export default {
         'isEnd': false
       },
       {
-        'hostTeamName': '火箭',
+        'hostTeamName': 'Rockets',
         'hostLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/10.png',
-        'guestTeamName': '爵士',
+        'guestTeamName': 'Utah Jazz',
         'guestLogoUrl': 'http://mat1.gtimg.com/sports/nba/logo/1602/26.png',
         'hostScore': 1,
         'guestScore': 1,
