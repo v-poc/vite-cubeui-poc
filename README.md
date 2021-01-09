@@ -29,7 +29,7 @@ npm run build
 
 ### Customize configuration
 
-About vite, please check Configuration Reference - [vite](https://github.com/vitejs/vite).
+About vite, please check Configuration Reference - [vite](https://vitejs.dev/config/).
 
 ## License
 
