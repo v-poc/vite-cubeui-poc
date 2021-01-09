@@ -10,7 +10,7 @@
           @click="hide"
         ><i class="cubeic-close"></i></span>
         <div class="title">Turn on push notifications</div>
-        <img src="../assets/images/subscribe.png">
+        <img src="/src/assets/images/subscribe.png">
         <p class="desc">Get the news, game, consulting data and video.</p>
         <cube-button
           class="button"
