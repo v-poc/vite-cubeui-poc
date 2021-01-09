@@ -2,7 +2,9 @@
 
 ## INTRODUCTION
 
-The cubeui-app demo based on CubeUI (Vue 2) with Vite. Thanks to vite-plugin-vue2.
+The cubeui-app demo based on CubeUI (Vue 2) with Vite 2. Thanks to vite-plugin-vue2.
+
+> This demo is for Vite 2.x and onward. [Vite 1.x's demo](https://github.com/bluepower/vite-cubeui-poc/tree/vite1) is in vite1 branch.
 
 > A porting from [cube-app-guide](https://github.com/cube-ui/cube-application-guide) that is based on webpack 3.
 
