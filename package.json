@@ -11,7 +11,7 @@
     "cube-ui": "^1.12.45",
     "sass": "^1.32.6",
     "stylus": "^0.54.8",
-    "vite": "^2.0.0-beta.61",
+    "vite": "^2.0.0-beta.63",
     "vite-plugin-vue2": "^1.2.0",
     "vue": "^2.6.12",
     "vue-template-compiler": "^2.6.12"
