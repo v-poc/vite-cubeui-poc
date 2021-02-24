@@ -1,7 +1,8 @@
 {
   "name": "vite-cubeui-poc",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "description": "Vue 2 with Vite 2 Playground - CubeUI",
+  "author": "Niko Ni",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -10,13 +11,14 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --debug",
+    "serve": "vite preview",
     "serve-build": "cd ./dist && vite"
   },
   "devDependencies": {
     "cube-ui": "^1.12.45",
     "sass": "^1.32.8",
     "stylus": "^0.54.8",
-    "vite": "^2.0.1",
+    "vite": "^2.0.2",
     "vite-plugin-vue2": "^1.2.1",
     "vue": "^2.6.12",
     "vue-template-compiler": "^2.6.12"
