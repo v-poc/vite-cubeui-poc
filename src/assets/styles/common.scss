@@ -1,1 +1,8 @@
 $color_grey: #E0E5E8;
+
+@font-face {
+  font-family: "cube-icon";
+  src:
+    url("cube-ui/src/common/icon/cubeic.woff") format("woff"),
+    url("cube-ui/src/common/icon/cubeic.ttf") format("truetype");
+}
